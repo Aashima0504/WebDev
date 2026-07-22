@@ -7,7 +7,3 @@ This repository contains my daily progress, notes, exercises, and mini-projects 
 - HTML
 - CSS
 - JavaScript
-
-## Goal
-
-To become proficient in front-end web development through consistent daily practice.
